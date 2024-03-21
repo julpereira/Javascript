@@ -28,7 +28,7 @@ switch(dia){
         break;
 
     case 7:
-        console.log('Sábado');
+        console.log('Sabado');
         break;
     
     default:
