@@ -13,4 +13,4 @@ console.log(typeof valor);
 
 var altura = 1.61
 var peso = 49.9
-commnmnbnsole.log(peso/(altura*altura))
+console.log(peso/(altura*altura))
