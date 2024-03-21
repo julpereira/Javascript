@@ -12,7 +12,7 @@ switch(dia){
         break;
 
     case 3:
-        console.log('Terça-feira');
+        console.log('Terca-feira');
         break;
 
     case 4:
@@ -36,4 +36,3 @@ switch(dia){
     break;
 
 }
-
